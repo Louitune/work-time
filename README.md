@@ -8,3 +8,5 @@ The code will automatically create a database worktime.db
 Until now it is only for one person and you have to change your password in line 4.
 
 maybe in next time it will be possible to have more users!
+
+Interface, functions and variables are in german.
